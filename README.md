@@ -5,11 +5,15 @@
 *Projet réalisé en binôme dans le cadre du cours "Machine Learning"*   
 **Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**
 
-# Résumé du projet 
+### Affichage Web 
+
+- [Jupyter Notebook Viewer](https://nbviewer.org/github/Joel-Hamilcaro/Classification-de-vetements/blob/main/Joel-HAMILCARO_Jie-TU_fashion_mnist.ipynb)   
+
+## Résumé du projet 
 
 L'objectif était de programmer un réseau de neurones artificiel qui, à partir d'une image de vêtement, est capable de prédire à quelle classe appartient ce vêtement (t-shirt, pantalon, robe, ...).
 
-# Plan du notebook 
+## Plan du notebook 
 
 - Introduction  
 - Paramétrage de l'environnement  
